@@ -1,7 +1,3 @@
-# energy-forecasting-time-series-model
-
-
-
 # Energy Consumption Analysis and Forecasting
 
 
