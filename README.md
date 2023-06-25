@@ -38,6 +38,3 @@ For forecasting energy consumption, we used Prophet, a procedure for forecasting
 
 To further improve the accuracy of our predictions, we also trained a Long Short-Term Memory (LSTM) network on the energy consumption data. This type of recurrent neural network is capable of learning patterns over time, making it suitable for time series forecasting. The LSTM model was tuned using Keras Tuner to optimize its architecture and hyperparameters. The model was then used to make predictions on the training and test datasets.
 
-## Project Impact
-
-This project provides insights into energy consumption patterns and accurately predicts future consumption. These findings can aid in decision-making processes related to energy management, infrastructure development, and sustainability initiatives. Predicting energy usage can also help in devising strategies for efficient energy utilization, leading to cost savings and reduced environmental impact.
